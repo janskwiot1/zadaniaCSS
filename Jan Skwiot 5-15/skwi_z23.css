@@ -1,0 +1,27 @@
+#pogrubienie_Skwiot {
+    font-size: 35px;
+    color: #8e5ece;
+}
+#pochylona_Skwiot {
+    font-size: 30pt;
+    color: #f7c26a;
+}
+#index_gorny_Skwiot {
+    font-size: 1.5cm;
+    color: #3ef4e2;
+}
+#index_dolny_Skwiot {
+    font-size: 2.5cm;
+    color: #381cd6;
+}
+#mono_Skwiot {
+    font-size: 45px;
+    color: #22e06a;
+}
+#powiekszenie_Skwiot {
+    color: #5c409c;
+}
+#pomniejszenie_Skwiot {
+    color: hsl(48, 55%, 49%);
+}
+/*<!-- Jan Skwiot 29.05.2022 -->
